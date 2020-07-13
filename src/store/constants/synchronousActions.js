@@ -1,0 +1,7 @@
+export default [
+    'CLEAR_PHOTO',
+    'CLEAR_PHOTOS',
+    'CLEAR_PHOTOGRAPHER',
+    'CLEAR_PHOTOGRAPHERS',
+    'CLEAR_PHOTOGRAPHER_PROFILE'
+];
